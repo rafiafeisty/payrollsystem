@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.exe.config
+C:\Users\Dell\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.exe
+C:\Users\Dell\source\repos\PayRoll\PayRoll\bin\Debug\PayRoll.pdb
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Properties.Resources.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.exe
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.pdb
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Employee.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Form1.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.salary.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Advances.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Bonus.resources
+C:\Users\Dell\source\repos\PayRoll\PayRoll\obj\Debug\PayRoll.Attendances.resources
